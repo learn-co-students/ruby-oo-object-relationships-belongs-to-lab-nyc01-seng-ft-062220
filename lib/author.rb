@@ -3,7 +3,6 @@ class Author
     attr_reader :post
     def initialize
         @name = name
-        @post = []
     end
 
     def post(post)
