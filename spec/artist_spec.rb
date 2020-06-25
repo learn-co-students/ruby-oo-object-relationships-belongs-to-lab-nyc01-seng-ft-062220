@@ -7,3 +7,4 @@ describe "Artist" do
     expect(artist.name).to eq("Beyonce")
   end
 end
+
